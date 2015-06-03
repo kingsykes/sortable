@@ -1,0 +1,600 @@
+{
+"timestamp": "6/2/2015 7:55:14 PM",
+"items": [
+{
+"QOH" : "12",
+"LocalSKU" : "P-OEM-BRO-A-BAG-B-BAG",
+"ItemName" : "Brompton B Bag, c/w castors & strap",
+"Price" : "$251",
+"Location" : "OFRWR3 / B7R2"
+},
+{
+"QOH" : "18",
+"LocalSKU" : "P-OEM-BRO-A-BAG-C-Bag",
+"ItemName" : "Brompton C Bag, c/w frame",
+"Price" : "$188",
+"Location" : "SHSD07 / B7R2"
+},
+{
+"QOH" : "2",
+"LocalSKU" : "P-OEM-BRO-A-BAG-C-Bag-WHPC",
+"ItemName" : "Brompton C Bag, c/w frame(Ship from Warehouse)",
+"Price" : "$188",
+"Location" : "SHSD07 / B7R2"
+},
+{
+"QOH" : "23",
+"LocalSKU" : "P-OEM-BRO-A-BAG-Folding-basket",
+"ItemName" : "Brompton Folding Basket, c/w frame",
+"Price" : "$90",
+"Location" : "SHSD07 / B7R2"
+},
+{
+"QOH" : "20",
+"LocalSKU" : "P-OEM-BRO-A-BAG-Folding-basket-WHPC",
+"ItemName" : "Brompton Folding Basket, c/w frame(Ship from Warehouse)",
+"Price" : "$90",
+"Location" : "WHPC"
+},
+{
+"QOH" : "13",
+"LocalSKU" : "P-OEM-BRO-A-BAG-frame-std",
+"ItemName" : "Front carrier frame alone, standard for Brompton Bags (not suitable for A and S type bags)",
+"Price" : "$33",
+"Location" : "SHSD07 / B7R2"
+},
+{
+"QOH" : "5",
+"LocalSKU" : "P-OEM-BRO-A-BAG-Game-Bag=BU",
+"ItemName" : "Brompton Game Bag Navy Blue c/w frame & rain-cover",
+"Price" : "$439",
+"Location" : ""
+},
+{
+"QOH" : "2",
+"LocalSKU" : "P-OEM-BRO-A-BAG-Game-Bag=GN",
+"ItemName" : "Brompton Game Bag Olive Green c/w frame & rain-cover",
+"Price" : "$439",
+"Location" : ""
+},
+{
+"QOH" : "2",
+"LocalSKU" : "P-OEM-BRO-A-BAG-Game-Bag=YE",
+"ItemName" : "Brompton Game Bag Mustard Yellow c/w frame & rain-cover",
+"Price" : "$439",
+"Location" : ""
+},
+{
+"QOH" : "5",
+"LocalSKU" : "P-OEM-BRO-A-BAG-Hardcase",
+"ItemName" : "Hardcase to fit Brompton",
+"Price" : "$349",
+"Location" : "B7R2"
+},
+{
+"QOH" : "16",
+"LocalSKU" : "P-OEM-BRO-A-BAG-Hardcase-WHPC",
+"ItemName" : "Hardcase to fit Brompton(Ship from Warehouse)",
+"Price" : "$349",
+"Location" : "Warehouse"
+},
+{
+"QOH" : "5",
+"LocalSKU" : "P-OEM-BRO-A-BAG-O-Bag=BK",
+"ItemName" : "Brompton Ortlieb Bag in Black c/w frame & strap",
+"Price" : "$359",
+"Location" : "OFRWR5 / B7R2"
+},
+{
+"QOH" : "1",
+"LocalSKU" : "P-OEM-BRO-A-BAG-O-Bag=OR",
+"ItemName" : "Brompton Ortlieb Bag in Orange c/w frame & strap",
+"Price" : "$359",
+"Location" : "OFRWR5 / B7R2"
+},
+{
+"QOH" : "2",
+"LocalSKU" : "P-OEM-BRO-A-BAG-O-Bag=PK",
+"ItemName" : "Brompton Ortlieb Bag in Pink c/w frame & strap",
+"Price" : "$359",
+"Location" : "OFRWR5 / B7R2"
+},
+{
+"QOH" : "3",
+"LocalSKU" : "P-OEM-BRO-A-BAG-O-Bag=WH",
+"ItemName" : "Brompton Ortlieb Bag in White c/w frame & strap",
+"Price" : "$359",
+"Location" : "OFRWR5 / B7R2"
+},
+{
+"QOH" : "5",
+"LocalSKU" : "P-OEM-BRO-A-BAG-O-Bag-Mini=BK",
+"ItemName" : "Brompton Mini Ortlieb Bag in BLACK c/w frame & strap",
+"Price" : "$161",
+"Location" : "OFRWR5 / B7R2"
+},
+{
+"QOH" : "2",
+"LocalSKU" : "P-OEM-BRO-A-BAG-O-Bag-Mini=BL",
+"ItemName" : "Brompton Mini Ortlieb Bag in BLUE c/w frame & strap",
+"Price" : "$161",
+"Location" : "OFRWR5 / B7R2"
+},
+{
+"QOH" : "2",
+"LocalSKU" : "P-OEM-BRO-A-BAG-O-Bag-Mini=GR",
+"ItemName" : "Brompton Mini Ortlieb Bag in GREEN c/w frame & strap",
+"Price" : "$161",
+"Location" : "OFRWR5 / B7R2"
+},
+{
+"QOH" : "5",
+"LocalSKU" : "P-OEM-BRO-A-BAG-O-Bag-Mini=WH",
+"ItemName" : "Brompton Mini Ortlieb Bag in WHITE c/w frame & strap",
+"Price" : "$161",
+"Location" : "OFRWR5 / B7R2"
+},
+{
+"QOH" : "14",
+"LocalSKU" : "P-OEM-BRO-A-BAG-rack-sack",
+"ItemName" : "Brompton Racksack, for rear carrier",
+"Price" : "$125",
+"Location" : "OFRWR3 / B7R2"
+},
+{
+"QOH" : "2",
+"LocalSKU" : "P-OEM-BRO-A-BAG-raincover",
+"ItemName" : "Front carrier rain-resistant cover, yellow",
+"Price" : "$18",
+"Location" : "SHSD03 / B7R2"
+},
+{
+"QOH" : "24",
+"LocalSKU" : "P-OEM-BRO-A-BAG-S-Bag",
+"ItemName" : "Brompton S Bag, c/w frame",
+"Price" : "$188",
+"Location" : "SHSD07 / B7R2"
+},
+{
+"QOH" : "6",
+"LocalSKU" : "P-OEM-BRO-A-BAG-strap",
+"ItemName" : "Strap for front bags, detachable for T Bag",
+"Price" : "$17",
+"Location" : "SHSD03"
+},
+{
+"QOH" : "24",
+"LocalSKU" : "P-OEM-BRO-A-BAG-T-Bag",
+"ItemName" : "Brompton T Bag c/w frame, strap & cover",
+"Price" : "$188",
+"Location" : "SHSD07 / B7R2"
+},
+{
+"QOH" : "7",
+"LocalSKU" : "P-OEM-BRO-A-BAG-T-Bag-WHPC",
+"ItemName" : "Brompton T Bag c/w frame, strap & cover(Ship from Warehouse)",
+"Price" : "$188",
+"Location" : "WHPC"
+},
+{
+"QOH" : "22",
+"LocalSKU" : "P-OEM-BRO-A-BAG-transport",
+"ItemName" : "Brompton Transport Bag",
+"Price" : "$95",
+"Location" : "OFRWR3 / B7R2"
+},
+{
+"QOH" : "50",
+"LocalSKU" : "P-OEM-BRO-A-Cover-w-Bag",
+"ItemName" : "Brompton Cover, c/w saddle bag",
+"Price" : "$45",
+"Location" : "OFRWR5"
+},
+{
+"QOH" : "84",
+"LocalSKU" : "P-OEM-BRO-A-Cover-w-Bag-WHPC",
+"ItemName" : "Brompton Cover, c/w saddle bag(Ship from Warehouse)",
+"Price" : "$45",
+"Location" : "WHPC"
+},
+{
+"QOH" : "3",
+"LocalSKU" : "P-OEM-BRO-A-DVD",
+"ItemName" : "Brompton DVD",
+"Price" : "$35",
+"Location" : "SH-cab"
+},
+{
+"QOH" : "17",
+"LocalSKU" : "P-OEM-BRO-A-Eazy-Wheel-F=Front",
+"ItemName" : "Eazy-wheel fwd, with 6mm screw.",
+"Price" : "$12",
+"Location" : "OFRW06-A"
+},
+{
+"QOH" : "23",
+"LocalSKU" : "P-OEM-BRO-A-Eazy-Wheel-F=L-Kit",
+"ItemName" : "Eazy Wheel Set (L-version)",
+"Price" : "$30",
+"Location" : "OFRW06-A / IZZY"
+},
+{
+"QOH" : "22",
+"LocalSKU" : "P-OEM-BRO-A-Eazy-Wheel-R=Rear",
+"ItemName" : "Eazy-wheel aft, with 5mm screw.",
+"Price" : "$12",
+"Location" : "OFRW06-A / IZZY"
+},
+{
+"QOH" : "9",
+"LocalSKU" : "P-OEM-BRO-A-Eazy-Wheel-R=R-Kit",
+"ItemName" : "Eazy Wheel Set (R-version)",
+"Price" : "$45",
+"Location" : "OFRW06-A / IZZY"
+},
+{
+"QOH" : "5",
+"LocalSKU" : "P-OEM-BRO-A-Eazy-Wheel-R=R-Kit-WHPC",
+"ItemName" : "Eazy Wheel Set (R-version)(Ship from Warehouse)",
+"Price" : "$45",
+"Location" : "WHPC"
+},
+{
+"QOH" : "13",
+"LocalSKU" : "P-OEM-BRO-A-Folding-Left-Pedal",
+"ItemName" : "Folding left hand pedal",
+"Price" : "$60",
+"Location" : "OFRW06-A"
+},
+{
+"QOH" : "62",
+"LocalSKU" : "P-OEM-BRO-A-Front-carrier-blk",
+"ItemName" : "Front carrier block assembly",
+"Price" : "$28",
+"Location" : "SHSD03 / B3SA03"
+},
+{
+"QOH" : "7",
+"LocalSKU" : "P-OEM-BRO-A-Latch",
+"ItemName" : "Rear-frame clip, exc seat-post-QRclamp",
+"Price" : "$15",
+"Location" : "OFRW06-A"
+},
+{
+"QOH" : "28",
+"LocalSKU" : "P-OEM-BRO-A-LIGHT-Battery",
+"ItemName" : "Battery LED light set complete (for any bike)",
+"Price" : "$60",
+"Location" : "OFRW06-A / B3R1 / B7R2"
+},
+{
+"QOH" : "6",
+"LocalSKU" : "P-OEM-BRO-A-LIGHT-Battery-WHPC",
+"ItemName" : "Battery LED light set complete (for any bike)(Ship from Warehouse)",
+"Price" : "$58",
+"Location" : "WHPC"
+},
+{
+"QOH" : "2",
+"LocalSKU" : "P-OEM-BRO-A-LIGHT-Dyno-Kit-L",
+"ItemName" : "Dynamo set (L version), c/w stay",
+"Price" : "$65",
+"Location" : "OFRW06-A"
+},
+{
+"QOH" : "11",
+"LocalSKU" : "P-OEM-BRO-A-LIGHT-Front-Lamp-LED-Son",
+"ItemName" : "Front LED dyno lamp only, ''senso-plus'', for SON",
+"Price" : "$166",
+"Location" : ""
+},
+{
+"QOH" : "6",
+"LocalSKU" : "P-OEM-BRO-A-LIGHT-REAR-Battery",
+"ItemName" : "Brompton Rear Battery Light Only",
+"Price" : "$28",
+"Location" : "OFRW06-A / IZZY"
+},
+{
+"QOH" : "2",
+"LocalSKU" : "P-OEM-BRO-A-LIGHT-REAR-dynamo",
+"ItemName" : "Brompton Rear Dynamo Light Only",
+"Price" : "$40",
+"Location" : "OFRW06-A / IZZY"
+},
+{
+"QOH" : "1",
+"LocalSKU" : "P-OEM-BRO-A-LIGHT-Shimano",
+"ItemName" : "Shimano Hub-Dynamo set, inc. F. wheel",
+"Price" : "$225",
+"Location" : "OFLWL6-W / B7R2"
+},
+{
+"QOH" : "1",
+"LocalSKU" : "P-OEM-BRO-A-LIGHT-Shimano-hub",
+"ItemName" : "Shimano Hub-Dynamo Hub, replacement 28h hub only",
+"Price" : "$100",
+"Location" : "OFLWL6-W"
+},
+{
+"QOH" : "1",
+"LocalSKU" : "P-OEM-BRO-A-LIGHT-Shimano-hub-wheel",
+"ItemName" : "Shimano Hub-Dynamo Hub, replacement wheel only",
+"Price" : "$144",
+"Location" : "OFLWL6"
+},
+{
+"QOH" : "2",
+"LocalSKU" : "P-OEM-BRO-A-LIGHT-Son",
+"ItemName" : "SON Superlight Hub-Dynamo set, inc. F. Wheel",
+"Price" : "$605",
+"Location" : "OFLWRL6-W"
+},
+{
+"QOH" : "14",
+"LocalSKU" : "P-OEM-BRO-A-Penta-clip",
+"ItemName" : "Brompton Pentaclip for rail-frame saddles",
+"Price" : "$37",
+"Location" : "SHSD03"
+},
+{
+"QOH" : "6",
+"LocalSKU" : "P-OEM-BRO-A-Polo=LG",
+"ItemName" : "Brompton Polo, Large",
+"Price" : "$40",
+"Location" : ""
+},
+{
+"QOH" : "5",
+"LocalSKU" : "P-OEM-BRO-A-Polo=MD",
+"ItemName" : "Brompton Polo, Medium",
+"Price" : "$40",
+"Location" : ""
+},
+{
+"QOH" : "4",
+"LocalSKU" : "P-OEM-BRO-A-Polo=SM",
+"ItemName" : "Brompton Polo, Small",
+"Price" : "$40",
+"Location" : ""
+},
+{
+"QOH" : "2",
+"LocalSKU" : "P-OEM-BRO-A-Polo=XL",
+"ItemName" : "Brompton Polo, Xtra Large",
+"Price" : "$40",
+"Location" : ""
+},
+{
+"QOH" : "10",
+"LocalSKU" : "P-OEM-BRO-A-Pump",
+"ItemName" : "Brompton/Zefal HP pump",
+"Price" : "$30",
+"Location" : "SHSD03"
+},
+{
+"QOH" : "6",
+"LocalSKU" : "P-OEM-BRO-A-RETRO-KIT",
+"ItemName" : "R-frame clip retrokit WITH seat-post-QRclamp",
+"Price" : "$45",
+"Location" : "OFRW06-A"
+},
+{
+"QOH" : "4",
+"LocalSKU" : "P-OEM-BRO-A-Saddle-Adap-Pin",
+"ItemName" : "Saddle adaptor pin assy",
+"Price" : "$45",
+"Location" : "SHSD03"
+},
+{
+"QOH" : "7",
+"LocalSKU" : "P-OEM-BRO-A-Saddle-B17",
+"ItemName" : "B17 Brooks Special Men's Saddle, exc clip.",
+"Price" : "$135",
+"Location" : "SHBw03"
+},
+{
+"QOH" : "7",
+"LocalSKU" : "P-OEM-BRO-A-Saddle-B17-LAD",
+"ItemName" : "B17 Brooks Special Ladies' Saddle, exc clip.",
+"Price" : "$135",
+"Location" : "SHBW03"
+},
+{
+"QOH" : "55",
+"LocalSKU" : "P-OEM-BRO-A-SADDLE-STD=BK",
+"ItemName" : "Brompton Standard Saddle w/ penta clip, Black",
+"Price" : "$50",
+"Location" : "SHSD03 / IZZY / 82nd"
+},
+{
+"QOH" : "2",
+"LocalSKU" : "P-OEM-BRO-A-SADDLE-STD=BU",
+"ItemName" : "Brompton Standard Saddle NO penta clip, Lagoon Blue",
+"Price" : "$50",
+"Location" : "SHSD03 / IZZY / 82nd"
+},
+{
+"QOH" : "3",
+"LocalSKU" : "P-OEM-BRO-A-SADDLE-STD=GR",
+"ItemName" : "Brompton Standard Saddle NO penta clip, Lime Green",
+"Price" : "$50",
+"Location" : "SHSD03 / IZZY / 82nd"
+},
+{
+"QOH" : "2",
+"LocalSKU" : "P-OEM-BRO-A-SADDLE-STD=RD",
+"ItemName" : "Brompton Standard Saddle NO penta clip, Red",
+"Price" : "$50",
+"Location" : "SHSD03 / IZZY / 82nd"
+},
+{
+"QOH" : "34",
+"LocalSKU" : "P-OEM-BRO-A-SEATP",
+"ItemName" : "Std-length seat pillar, steel",
+"Price" : "$27",
+"Location" : "SHBW02 / B3SA01/  IZZY"
+},
+{
+"QOH" : "6",
+"LocalSKU" : "P-OEM-BRO-A-SEATP-Ext",
+"ItemName" : "Extended seat pillar,60mm, steel",
+"Price" : "$27",
+"Location" : "SHBW02 / B3SA02 / IZZY"
+},
+{
+"QOH" : "28",
+"LocalSKU" : "P-OEM-BRO-A-SEATP-Tele",
+"ItemName" : "Telescopic seat pillar, steel",
+"Price" : "$90",
+"Location" : "SHBW02 / B3SA02 / IZZY"
+},
+{
+"QOH" : "1",
+"LocalSKU" : "P-OEM-BRO-A-Touch-up-paint=AB=MT",
+"ItemName" : "Touch-up paint, Arctic Blue (Matt)",
+"Price" : "$12",
+"Location" : "OFRW07-A"
+},
+{
+"QOH" : "2",
+"LocalSKU" : "P-OEM-BRO-A-Touch-up-paint=AG=MT",
+"ItemName" : "Touch-up paint, Apple Green (Matt)",
+"Price" : "$12",
+"Location" : "OFRW07-A"
+},
+{
+"QOH" : "1",
+"LocalSKU" : "P-OEM-BRO-A-Touch-up-paint=BK=MT",
+"ItemName" : "Touch-up paint, BLACK(Matt)",
+"Price" : "$12",
+"Location" : "OFRW07-A"
+},
+{
+"QOH" : "3",
+"LocalSKU" : "P-OEM-BRO-A-Touch-up-paint=BU=MT",
+"ItemName" : "Touch-up paint, BLUE(Matt)",
+"Price" : "$12",
+"Location" : "OFRW07-A"
+},
+{
+"QOH" : "2",
+"LocalSKU" : "P-OEM-BRO-A-Touch-up-paint=CL=MT",
+"ItemName" : "Touch-up paint, Claret (Matt)",
+"Price" : "$12",
+"Location" : "OFRW07-A"
+},
+{
+"QOH" : "2",
+"LocalSKU" : "P-OEM-BRO-A-Touch-up-paint=DS=MT",
+"ItemName" : "Touch-up paint, Desert Sand(Matt)",
+"Price" : "$12",
+"Location" : "OFRW07-A"
+},
+{
+"QOH" : "1",
+"LocalSKU" : "P-OEM-BRO-A-Touch-up-paint=FL=MT",
+"ItemName" : "Touch-up paint, Flamingo Pink (Matt)",
+"Price" : "$12",
+"Location" : "OFRW07-A"
+},
+{
+"QOH" : "1",
+"LocalSKU" : "P-OEM-BRO-A-Touch-up-paint=HP=MT",
+"ItemName" : "Touch-up paint, Hot Pink (Matt)",
+"Price" : "$12",
+"Location" : "OFRW07-A"
+},
+{
+"QOH" : "1",
+"LocalSKU" : "P-OEM-BRO-A-Touch-up-paint=KW=MT",
+"ItemName" : "Touch-up paint, Kew Green (Matt)",
+"Price" : "$12",
+"Location" : "OFRW07-A"
+},
+{
+"QOH" : "5",
+"LocalSKU" : "P-OEM-BRO-A-Touch-up-paint=OR=MT",
+"ItemName" : "Touch-up paint, Orange(Matt)",
+"Price" : "$12",
+"Location" : "OFRW07-A"
+},
+{
+"QOH" : "1",
+"LocalSKU" : "P-OEM-BRO-A-Touch-up-paint=PH=MT",
+"ItemName" : "Touch-up paint, Purple Haze(Matt)",
+"Price" : "$12",
+"Location" : "OFRW07-A"
+},
+{
+"QOH" : "2",
+"LocalSKU" : "P-OEM-BRO-A-Touch-up-paint=PK=MT",
+"ItemName" : "Touch-up paint, Baby Pink (Matt)",
+"Price" : "$12",
+"Location" : "OFRW07-A"
+},
+{
+"QOH" : "2",
+"LocalSKU" : "P-OEM-BRO-A-Touch-up-paint=RD=MT",
+"ItemName" : "Touch-up paint, RED(Matt)",
+"Price" : "$12",
+"Location" : "OFRW07-A"
+},
+{
+"QOH" : "2",
+"LocalSKU" : "P-OEM-BRO-A-Touch-up-paint=RG=MT",
+"ItemName" : "Touch-up paint, Racing Green (Matt)",
+"Price" : "$12",
+"Location" : "OFRW07-A"
+},
+{
+"QOH" : "2",
+"LocalSKU" : "P-OEM-BRO-A-Touch-up-paint=RL=MT",
+"ItemName" : "Touch-up paint, Raw Lacquer (Matt)",
+"Price" : "$12",
+"Location" : "OFRW07-A"
+},
+{
+"QOH" : "2",
+"LocalSKU" : "P-OEM-BRO-A-Touch-up-paint=SG=MT",
+"ItemName" : "Touch-up paint, Sage Green (Matt)",
+"Price" : "$12",
+"Location" : "OFRW07-A"
+},
+{
+"QOH" : "1",
+"LocalSKU" : "P-OEM-BRO-A-Touch-up-paint=SV=GL",
+"ItemName" : "Touch-up paint, SILVER(Gloss)",
+"Price" : "$12",
+"Location" : "OFRW07-A"
+},
+{
+"QOH" : "2",
+"LocalSKU" : "P-OEM-BRO-A-Touch-up-paint=TG=MT",
+"ItemName" : "Touch-up paint, TURKISH GREEN(Matt)",
+"Price" : "$12",
+"Location" : "OFRW07-A"
+},
+{
+"QOH" : "2",
+"LocalSKU" : "P-OEM-BRO-A-Touch-up-paint=TM=MT",
+"ItemName" : "Touch-up paint, Tempest Blue(Matt)",
+"Price" : "$12",
+"Location" : "OFRW07-A"
+},
+{
+"QOH" : "5",
+"LocalSKU" : "P-OEM-BRO-A-Touch-up-paint=WH=MT",
+"ItemName" : "Touch-up paint, WHITE(Matt)",
+"Price" : "$12",
+"Location" : "OFRW07-A"
+},
+{
+"QOH" : "2",
+"LocalSKU" : "P-OEM-BRO-A-Touch-up-paint=YE=MT",
+"ItemName" : "Touch-up paint, YELLOW(Matt)",
+"Price" : "$12",
+"Location" : "OFRW07-A"
+}
+]
+}

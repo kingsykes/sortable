@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" ng-app="myApp" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" ng-app="myApp" class="no-js"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>NYCeWheels Live Inventory</title>
+  <meta name="description" content="NYCeWheels Live Inventory">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="http://lib.store.yahoo.net/lib/nycewheels/global-css.r3.css">
+  <link rel="stylesheet" type="text/css" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+</head>
+<body>
+  <!--[if lt IE 7]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+  <![endif]-->
+
+  <table class="data-table" ng-controller="tableCtrl" ng-cloak>
+    <tr><td class="data-table-section-header" colspan="99">Report Last Updated {{data.timestamp}} EDT &nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-search"></i>
+      <input type="text" class="form-control" placeholder="Search This Page" ng-model="filterString"/>
+      <button ng-click="filterString=''">Reset Search</button>
+    </td></tr>
+
+    <tr>
+      <td class="data-table-section-header">
+        <a href="" ng-click="sortReverse = (sortField==='QOH')? !sortReverse : false;sortField = 'QOH'">
+          QOH
+          <i ng-show="sortField==='QOH' && !sortReverse" class="fa fa-caret-down"></i>
+          <i ng-show="sortField==='QOH' && sortReverse" class="fa fa-caret-up"></i>
+        </a>
+      </td>
+      <td class="data-table-section-header">
+        <a href="" ng-click="sortReverse = (sortField==='LocalSKU')? !sortReverse : false; sortField='LocalSKU'">
+          LocalSKU
+          <i ng-show="sortField==='LocalSKU' && !sortReverse" class="fa fa-caret-down"></i>
+          <i ng-show="sortField==='LocalSKU' && sortReverse" class="fa fa-caret-up"></i>
+        </a>
+      </td>
+      <td class="data-table-section-header">
+        <a href="" ng-click="sortReverse = (sortField==='ItemName')? !sortReverse : false; sortField='ItemName'">
+        ItemName
+        <i ng-show="sortField==='ItemName' && !sortReverse" class="fa fa-caret-down"></i>
+        <i ng-show="sortField==='ItemName' && sortReverse" class="fa fa-caret-up"></i>
+      </a>
+      </td>
+      <td class="data-table-section-header">
+        <a href="" ng-click="sortReverse = (sortField==='Price')? !sortReverse : false; sortField='Price'">
+        Price
+        <i ng-show="sortField==='Price' && !sortReverse" class="fa fa-caret-down"></i>
+        <i ng-show="sortField==='Price' && sortReverse" class="fa fa-caret-up"></i>
+      </a>
+      </td>
+      <td class="data-table-section-header">
+        <a href="" ng-click="sortReverse = (sortField==='Location')? !sortReverse : false; sortField='Location'">
+          Location
+          <i ng-show="sortField==='Location' && !sortReverse" class="fa fa-caret-down"></i>
+          <i ng-show="sortField==='Location' && sortReverse" class="fa fa-caret-up"></i>
+        </a>
+      </td>
+    </tr>
+
+    <tr ng-repeat="item in data.items | orderBy:sortField:sortReverse | filter:filterString" ng-class-even="'even-row'">
+      <td>{{item.QOH}}</td>
+      <td>{{item.LocalSKU}}</td>
+      <td>{{item.ItemName}}</td>
+      <td>{{item.Price}}</td>
+      <td>{{item.Location}}</td>
+    </tr>
+  </table>
+
+  <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.28/angular.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
